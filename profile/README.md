@@ -19,8 +19,8 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### Alpha Scanner bot on Ethereum
 [https://alphai.site/](https://alphai.site/)
 
-## FBX **(@alphamatesdev)**
-#### GMX Fork on Blockspot
+## Bluespade **(@alphamatesdev)**
+#### GMX Fork on Cronos & Polygon chains
 [https://bluespade.netlify.app](https://bluespade.netlify.app/) <br />
 
 ## Our Partners
