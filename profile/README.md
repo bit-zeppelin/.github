@@ -11,6 +11,18 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### ICO LaunchPad on BNB Smartchain
 [https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
 
+## ByteX Chain Node **(@kato114)**
+#### EVMOS based Chain Core for Running Node
+[https://test-rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
+
+## ByteX Chain Explorer **(@kato114)**
+#### Blockscout Based Block Explorer for EVM Chain
+[https://test.bytescan.io/](https://test.bytescan.io/) <br />
+
+## POW Faucet **(@kato114)**
+#### POW Faucet for EVM Chain
+[https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
+
 ## DexOrdi **(@proskillowner)**
 #### BRC20 DEX on Bitcoin
 [https://dexordi.proskillowner.com/](https://dexordi.proskillowner.com/)
