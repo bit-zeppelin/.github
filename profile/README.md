@@ -11,6 +11,10 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### ICO LaunchPad on BNB Smartchain
 [https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
 
+## BPEGD **(@kato114)**
+#### Defi on Ethereum Network
+[https://bpegd-3817c.web.app/](https://bpegd-3817c.web.app/)
+
 ## ByteX Chain Node **(@kato114)**
 #### EVMOS based Chain Core for Running Node
 [https://test-rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
