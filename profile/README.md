@@ -35,8 +35,37 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### GMX Fork on Cronos & Polygon chains
 [https://bluespade.netlify.app](https://bluespade.netlify.app/) <br />
 
-## Bluespade **(@ctyptoLteam)**
+## BullHead **(@ctyptoLteam)**
 #### NFT Minting/Staking on Ethereum
 [https://app.bullheadednfts.io/](https://bull-nft-staking.netlify.app/) <br />
+
+## Benkei **(@cryptoLteam, @Ether0405)**
+#### Deflation Token Staking Platform
+[https://benkei.netlify.app](https://benkei.netlify.app/) <br />
+
+## SynthX **(@cryptoLteam, @Ether0405)**
+#### Token Staking Platform for Fixed-Interest Rate
+[https://gp-launchpad.netlify.app/(https://synthx.netlify.app/) <br />
+
+## Caelum **(@cryptoLteam, @Ether0405)**
+#### Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH
+[https://cal-lsd.netlify.app](https://cal-lsd.netlify.app/) <br />
+
+## GasPad **(@cryptoLteam, @Ether0405)**
+#### ICO LaunchPad
+[https://gp-launchpad.netlify.app](https://gp-launchpad.netlify.app/) <br />
+
+## Fire Flys **(@cryptoLteam)**
+#### NFT Marketplace
+[https://fireflys.netlify.app](https://fireflys.netlify.app/) <br />
+
+## GOC Presale **(@Ether0405)**
+#### Token Landing & Presale page
+[https://presale-goc.netlify.app](https://presale-goc.netlify.app/) <br />
+
+## BitcSwap **(@Ether0405)**
+#### BRC20 Dex
+[https://app.bitcswap.io/](https://app.bitcswap.io/) <br />
+
 
 ## Our Partners
