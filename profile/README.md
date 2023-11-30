@@ -11,4 +11,8 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### ICO LaunchPad on BNB Smartchain
 [add link here]
 
+## DexOrdi **(@proskillowner)**
+#### BRC20 DEX on Bitcoin
+[https://dexordi.proskillowner.com/]
+
 ## Our Partners
