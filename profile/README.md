@@ -9,7 +9,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 
 ## SafePad **(@kato114)**
 #### ICO LaunchPad on BNB Smartchain
-[add link here]
+[https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
 
 ## DexOrdi **(@proskillowner)**
 #### BRC20 DEX on Bitcoin
