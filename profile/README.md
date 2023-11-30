@@ -23,4 +23,8 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### GMX Fork on Cronos & Polygon chains
 [https://bluespade.netlify.app](https://bluespade.netlify.app/) <br />
 
+## Bluespade **(@ctyptoLteam)**
+#### NFT Minting/Staking on Ethereum
+[https://app.bullheadednfts.io/](https://bull-nft-staking.netlify.app/) <br />
+
 ## Our Partners
