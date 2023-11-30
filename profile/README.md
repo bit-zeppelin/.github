@@ -21,6 +21,6 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 
 ## FBX **(@alphamatesdev)**
 #### GMX Fork on Blockspot
-[https://fbx.netlify.app](https://fbx.netlify.app/) <br />
+[https://5bx.netlify.app](https://5bx.netlify.app/) <br />
 
 ## Our Partners
