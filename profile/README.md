@@ -13,6 +13,6 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 
 ## DexOrdi **(@proskillowner)**
 #### BRC20 DEX on Bitcoin
-[https://dexordi.proskillowner.com/]
+[https://dexordi.proskillowner.com/](https://dexordi.proskillowner.com/)
 
 ## Our Partners
