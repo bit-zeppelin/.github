@@ -74,4 +74,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ## Dex on Cosmos Terra **(@legendblockchain)**
 #### Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra
 
+## SafeWallet **(@Kubka814)**
+#### Blockspot SafeWallet
+[https://safespot.tech/](https://safespot.tech/) <br />
+
+## Injective DApp **(@Kubka814)**
+#### NFT Launchpad
+[https://injmarket.io/](https://injmarket.io/) <br />
+
 ## Our Partners
+
