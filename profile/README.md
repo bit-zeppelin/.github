@@ -71,5 +71,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### BRC20 Dex
 [https://app.bitcswap.io/](https://app.bitcswap.io/) <br />
 
+## Dex on Cosmos Terra **(@legendblockchain)**
+#### Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra
 
 ## Our Partners
