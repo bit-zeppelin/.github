@@ -35,6 +35,10 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### Alpha Scanner bot on Ethereum
 [https://alphai.site/](https://alphai.site/)
 
+## TelegramDEX **(@dotnetstar82)**
+#### The first TelegramDEX on Ethereum
+[https://teleswap.tech/](https://teleswap.tech/)
+
 ## Bluespade **(@alphamatesdev)**
 #### GMX Fork on Cronos & Polygon chains
 [https://bluespade.netlify.app](https://bluespade.netlify.app/) <br />
