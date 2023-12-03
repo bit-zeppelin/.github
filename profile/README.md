@@ -94,6 +94,7 @@ ByteX Faucet <br />
 
 ## Dex on Cosmos Terra **(@legendblockchain)**
 #### Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra
+[https://terraswap.io/](https://terraswap.io/) <br />
 
 ## SafeWallet **(@Kubka814)**
 #### Blockspot SafeWallet
