@@ -31,19 +31,19 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 👥 [@messi](https://t.me/@legendblockchain)<br />
 
 
-### 🔀 Perpetual DEX
+### ⚡ Perpetual DEX
 #### 1️⃣  Bluespade
 &nbsp; &nbsp; 🌎 [https://bluespade.app/](https://bluespade.netlify.app/) <br />
 &nbsp; &nbsp; 📌 GMX Fork on Cronos & Polygon chains <br />
 &nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
 
-### 🏧 Lending Protocol
+### ⚡ Lending Protocol
 #### 1️⃣  Caelum 
 &nbsp; &nbsp; 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
-### 📟 LaunchPad
+### ⚡ LaunchPad
 #### 1️⃣  SafePad
 &nbsp; &nbsp; 🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
 &nbsp; &nbsp; 📌 ICO LaunchPad on BNB Smartchain <br />
@@ -54,13 +54,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
-### 💎 Token Landing & Presale dApp
+### ⚡ Token Landing & Presale dApp
 ### 1️⃣  $GOC PreSale
 &nbsp; &nbsp; 🌎 [https://presale-goc.app/](https://presale-goc.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Token Landing & Presale page <br />
 &nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405)<br />
 
-### 🖧 BlockChain Network
+### ⚡ BlockChain Network
 #### 1️⃣  ByteX Chain
 &nbsp; ByteX Node <br />
 &nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
