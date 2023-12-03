@@ -3,7 +3,7 @@
 We've been helping startups, banks, and financial institutions to integrate blockchain technologies for more than 7 years. <br />
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
-## 🚜 DEX & DeFi on EVM Chain 🚜
+## 🚜 DEX & DeFi 🚜
 ### 1️⃣  EldenFi 
 &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 &nbsp; &nbsp; 📌 Camelot Fork on Base Goerli <br />
@@ -23,6 +23,12 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 🌎 [https://benkei.fi](https://benkei.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Deflation Token, LP Token Staking Platform <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
+
+### 5️⃣  Terra Swap
+&nbsp; &nbsp; 🌎 [https://terraswap.io](https://terraswap.io/) <br />
+&nbsp; &nbsp; 📌 Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra <br />
+&nbsp; &nbsp; [@messi](https://t.me/@legendblockchain)<br />
+
 
 ## 🔀 Perpetual DEX 🔀
 ### 1️⃣  Bluespade
@@ -118,9 +124,5 @@ ByteX Faucet <br />
 &nbsp; &nbsp; 📌 NFT LaunchPad on Injective chain<br />
 &nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
 
-## Dex on Cosmos Terra **(@legendblockchain)**
-#### Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra
-[https://terraswap.io/](https://terraswap.io/) <br />
-
-## Our Partners
+# Our Partners
 
