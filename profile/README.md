@@ -36,13 +36,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 GMX Fork on Cronos & Polygon chains <br />
 &nbsp; &nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
 
-### ✅ Lending Protocol
+## Lending Protocol
 &nbsp; &nbsp; 1️⃣  Caelum  <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
 &nbsp; &nbsp; &nbsp; 📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
 &nbsp; &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
-### ✅ LaunchPad
+## LaunchPad
 &nbsp; &nbsp; 1️⃣  SafePad <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
 &nbsp; &nbsp; &nbsp; 📌 ICO LaunchPad on BNB Smartchain <br />
@@ -53,13 +53,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
 &nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
-### ✅ Token Landing & Presale dApp
+## Token Landing & Presale dApp
 &nbsp; &nbsp; 1️⃣  $GOC PreSale <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://presale-goc.app/](https://presale-goc.netlify.app/) <br />
 &nbsp; &nbsp; &nbsp; 📌 Token Landing & Presale page <br />
 &nbsp; &nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405)<br />
 
-### ✅ BlockChain Network
+## BlockChain Network
 &nbsp; &nbsp; 1️⃣  ByteX Chain <br />
 &nbsp; &nbsp; &nbsp; ByteX Node <br />
 &nbsp; &nbsp; &nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
@@ -74,7 +74,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; &nbsp; 📌 POW Faucet for EVM Chain <br />
 &nbsp; &nbsp; &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
 
-### ✅ Bitcoin Ordinal
+## Bitcoin Ordinal
 &nbsp; &nbsp; 1️⃣  DexOrdi <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://dexordi.com](https://dexordi.proskillowner.com/) <br />
 &nbsp; &nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
@@ -85,7 +85,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
 &nbsp; &nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405) <br />
 
-### ✅ Crypto Telegram Bot
+## Crypto Telegram Bot
 &nbsp; &nbsp; 1️⃣  Alpha AI  <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://alphai.site](https://alphai.site/) <br />
 &nbsp; &nbsp; &nbsp; 📌 Alpha Scanner bot on Ethereum <br />
@@ -96,7 +96,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 Telegram DEX on Ethereum <br />
 &nbsp; &nbsp; &nbsp; 👥 [@ares](https://t.me/Sparkleye) [@tiger](https://t.me/DraganManager) <br />
 
-### ✅ NFT
+## NFT
 &nbsp; &nbsp; 1️⃣  BullHead <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://app.bullheadednfts.io](https://bull-nft-staking.netlify.app/) <br />
 &nbsp; &nbsp; &nbsp; 📌 NFT Minting/Staking on Ethereum <br />
@@ -107,13 +107,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 NFT MarketPlace on Butane chain <br />
 &nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 
-### ✅ Wallet
+## Wallet
 &nbsp; &nbsp; 1️⃣  SafeSpot <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://safespot.tech](https://safespot.tech/) <br />
 &nbsp; &nbsp; &nbsp; 📌 MultiSign Wallet on BlockSpot Chain (SafeWallet Fork) <br />
 &nbsp; &nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
 
-### ✅ Injective Chain dApps
+## Injective Chain dApps
 &nbsp; &nbsp; 1️⃣  Inj Staking <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://injstaking.io](https://injstaking.io/) <br />
 &nbsp; &nbsp; &nbsp; 📌 NFT Staking Platform on Injective chain<br />
