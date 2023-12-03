@@ -6,12 +6,13 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 # Our Products
 ### ⚡ DEX & DeFi
 #### &nbsp;
-&nbsp; 1️⃣  EldenFi 
+&nbsp; 1️⃣  EldenFi <br />
 &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 &nbsp; &nbsp; 📌 purpose built liquidity architecture to support builders and generate real yields on the native DEX of Base <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@ursa](https://t.me/mladendev) [@sniper](https://t.me/zxapolloeth)<br />
 
-</br> 2️⃣  SynthX
+#### &nbsp;
+&nbsp; 2️⃣  SynthX <br />
 &nbsp; &nbsp; 🌎 [https://synthx.fi](https://synthx.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Token Staking Platform for Fixed-Interest Rate <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
