@@ -7,41 +7,54 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ### 1️⃣  EldenFi 
 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 📌 Camelot Fork on Base Goerli <br />
-💻 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
+👥 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
 
-### 2️⃣  SynthX **(@cryptoLteam, @Ether0405)**
+### 2️⃣  SynthX
 🌎 [https://synthx.fi](https://synthx.netlify.app/) <br />
 📌 Token Staking Platform for Fixed-Interest Rate <br />
-💻 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+👥 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
 
 ### 3️⃣  BPEGD
 🌎 [https://bpegd.fi](https://bpegd-3817c.web.app/) <br />
 📌 Staking & Lending on Ethereum Network <br />
-💻 [@alex](https://t.me/whaler0x), [@ww](https://t.me/ktman114)<br />
+👥 [@alex](https://t.me/whaler0x), [@ww](https://t.me/ktman114)<br />
+
+### 4️⃣  Benkei
+🌎 [https://benkei.fi](https://benkei.netlify.app/) <br />
+📌 Deflation Token, LP Token Staking Platform <br />
+👥 [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
 
 ## 🏧 Lending Protocol 🏧
-#### 1️⃣  Caelum 
+### 1️⃣  Caelum 
 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
 📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
-💻 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+👥 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
 
-## SafePad **(@kato114)**
-#### ICO LaunchPad on BNB Smartchain
-[https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
+## 📟 LaunchPad 📟
+### 1️⃣  SafePad
+🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
+📌 ICO LaunchPad on BNB Smartchain <br />
+👥 [@ww](https://t.me/ktman114)<br />
 
+### 2️⃣  GasPad
+🌎 [https://gaspad.app](https://gp-launchpad.netlify.app/) <br />
+📌 ICO LaunchPad on Butane chain <br />
+👥 [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
 
-
-## ByteX Chain Node **(@kato114)**
-#### EVMOS based Chain Core for Running Node
-[https://test-rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
-
-## ByteX Chain Explorer **(@kato114)**
-#### Blockscout Based Block Explorer for EVM Chain
-[https://test.bytescan.io/](https://test.bytescan.io/) <br />
-
-## POW Faucet **(@kato114)**
-#### POW Faucet for EVM Chain
-[https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
+## 🖧 BlockChain Network 🖧
+### 1️⃣  ByteX Chain
+##### ByteX Node
+🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org)
+📌 EVMOS based Chain Core for Running Node <br />
+👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
+##### ByteX Explorer
+🌎 [https://bytescan.io/](https://test.bytescan.io/) <br />
+📌 Blockscout Based Block Explorer for EVM Chain <br />
+👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
+##### ByteX Faucet
+🌎 [https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
+📌 POW Faucet for EVM Chain <br />
+👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
 
 ## DexOrdi **(@proskillowner)**
 #### BRC20 DEX on Bitcoin
@@ -63,13 +76,9 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### NFT Minting/Staking on Ethereum
 [https://app.bullheadednfts.io/](https://bull-nft-staking.netlify.app/) <br />
 
-## Benkei **(@cryptoLteam, @Ether0405)**
-#### Deflation Token Staking Platform
-[https://benkei.netlify.app](https://benkei.netlify.app/) <br />
 
-## GasPad **(@cryptoLteam, @Ether0405)**
-#### ICO LaunchPad
-[https://gp-launchpad.netlify.app](https://gp-launchpad.netlify.app/) <br />
+
+
 
 ## Fire Flys **(@cryptoLteam)**
 #### NFT Marketplace
