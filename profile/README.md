@@ -3,7 +3,7 @@
 We've been helping startups, banks, and financial institutions to integrate blockchain technologies for more than 7 years. <br />
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
-## 🚜 DEX & DeFi 🚜
+## 🚜 DEX & DeFi on EVM Chain 🚜
 ### 1️⃣  EldenFi 
 &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 &nbsp; &nbsp; 📌 Camelot Fork on Base Goerli <br />
@@ -24,6 +24,12 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 📌 Deflation Token, LP Token Staking Platform <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
+## 🔀 Perpetual DEX 🔀
+### 1️⃣  Bluespade
+&nbsp; &nbsp; 🌎 [https://bluespade.app/](https://bluespade.netlify.app/) <br />
+&nbsp; &nbsp; 📌 GMX Fork on Cronos & Polygon chains <br />
+&nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
+
 ## 🏧 Lending Protocol 🏧
 ### 1️⃣  Caelum 
 &nbsp; &nbsp; 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
@@ -41,6 +47,12 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
+## 💎 Token Landing & Presale dApp 💎
+### 1️⃣  $GOC PreSale
+&nbsp; &nbsp; 🌎 [https://presale-goc.app/](https://presale-goc.netlify.app/) <br />
+&nbsp; &nbsp; 📌 Token Landing & Presale page <br />
+&nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405)<br />
+
 ## 🖧 BlockChain Network 🖧
 ### 1️⃣  ByteX Chain
 ByteX Node <br />
@@ -56,52 +68,58 @@ ByteX Faucet <br />
 &nbsp; &nbsp; 📌 POW Faucet for EVM Chain <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
 
-## DexOrdi **(@proskillowner)**
-#### BRC20 DEX on Bitcoin
-[https://dexordi.proskillowner.com/](https://dexordi.proskillowner.com/)
+## 🅱️ Bitcoin Ordinal 🅱️
+### 1️⃣  DexOrdi
+&nbsp; &nbsp; 🌎 [https://dexordi.com](https://dexordi.proskillowner.com/) <br />
+&nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
+&nbsp; &nbsp; 👥 [@ghost](https://t.me/proskillowner)
 
-## AlphAI **(@dotnetstar82)**
-#### Alpha Scanner bot on Ethereum
-[https://alphai.site/](https://alphai.site/)
+### 2️⃣  BitcSwap
+&nbsp; &nbsp; 🌎 [https://app.bitcswap.io](https://app.bitcswap.io/) <br />
+&nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
+&nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405) <br />
 
-## TelegramDEX **(@dotnetstar82)**
-#### The first TelegramDEX on Ethereum
-[https://teleswap.tech/](https://teleswap.tech/)
+## 🤖 Crypto Telegram Bot 🤖
+### 1️⃣  Alpha AI 
+&nbsp; &nbsp; 🌎 [https://alphai.site](https://alphai.site/) <br />
+&nbsp; &nbsp; 📌 Alpha Scanner bot on Ethereum <br />
+&nbsp; &nbsp; 👥 [@ares](https://t.me/Sparkleye) [@tiger](https://t.me/DraganManager) <br />
 
-## Bluespade **(@alphamatesdev)**
-#### GMX Fork on Cronos & Polygon chains
-[https://bluespade.netlify.app](https://bluespade.netlify.app/) <br />
+### 2️⃣  TeleSwap
+&nbsp; &nbsp; 🌎 [https://teleswap.tech](https://teleswap.tech/) <br />
+&nbsp; &nbsp; 📌 Telegram DEX on Ethereum <br />
+&nbsp; &nbsp; 👥 [@ares](https://t.me/Sparkleye) [@tiger](https://t.me/DraganManager) <br />
 
-## BullHead **(@ctyptoLteam)**
-#### NFT Minting/Staking on Ethereum
-[https://app.bullheadednfts.io/](https://bull-nft-staking.netlify.app/) <br />
+## 🖼 NFT 🖼 
+### 1️⃣  BullHead
+&nbsp; &nbsp; 🌎 [https://app.bullheadednfts.io](https://bull-nft-staking.netlify.app/) <br />
+&nbsp; &nbsp; 📌 NFT Minting/Staking on Ethereum <br />
+&nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 
+### 2️⃣  FireFlys
+&nbsp; &nbsp; 🌎 [https://fireflys.app/](https://fireflys.netlify.app/) <br />
+&nbsp; &nbsp; 📌 NFT MarketPlace on Butane chain <br />
+&nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 
+## 👝 Wallet 👝
+### 1️⃣  SafeSpot
+&nbsp; &nbsp; 🌎 [https://safespot.tech](https://safespot.tech/) <br />
+&nbsp; &nbsp; 📌 MultiSign Wallet on BlockSpot Chain (SafeWallet Fork) <br />
+&nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
 
+## 💉 Injective Chain dApps 💉
+### 1️⃣  Inj Staking
+&nbsp; &nbsp; 🌎 [https://injstaking.io](https://injstaking.io/) <br />
+&nbsp; &nbsp; 📌 NFT Staking Platform on Injective chain<br />
+&nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
 
-
-## Fire Flys **(@cryptoLteam)**
-#### NFT Marketplace
-[https://fireflys.netlify.app](https://fireflys.netlify.app/) <br />
-
-## GOC Presale **(@Ether0405)**
-#### Token Landing & Presale page
-[https://presale-goc.netlify.app](https://presale-goc.netlify.app/) <br />
-
-## BitcSwap **(@Ether0405)**
-#### BRC20 Dex
-[https://app.bitcswap.io/](https://app.bitcswap.io/) <br />
+### 1️⃣  InjMarket
+&nbsp; &nbsp; 🌎 [https://injmarket.io](https://injmarket.io/) <br />
+&nbsp; &nbsp; 📌 NFT LaunchPad on Injective chain<br />
+&nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
 
 ## Dex on Cosmos Terra **(@legendblockchain)**
 #### Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra
-
-## SafeWallet **(@Kubka814)**
-#### Blockspot SafeWallet
-[https://safespot.tech/](https://safespot.tech/) <br />
-
-## Injective DApp **(@Kubka814)**
-#### NFT Launchpad
-[https://injmarket.io/](https://injmarket.io/) <br />
 
 ## Our Partners
 
