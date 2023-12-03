@@ -27,7 +27,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ### 5️⃣  Terra Swap
 &nbsp; &nbsp; 🌎 [https://terraswap.io](https://terraswap.io/) <br />
 &nbsp; &nbsp; 📌 Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra <br />
-&nbsp; &nbsp; [@messi](https://t.me/@legendblockchain)<br />
+&nbsp; &nbsp; 👥 [@messi](https://t.me/@legendblockchain)<br />
 
 
 ## 🔀 Perpetual DEX 🔀
@@ -61,15 +61,15 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 
 ## 🖧 BlockChain Network 🖧
 ### 1️⃣  ByteX Chain
-ByteX Node <br />
+&nbsp; ByteX Node <br />
 &nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
 &nbsp; &nbsp; 📌 EVMOS based Chain Core for Running Node <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
-ByteX Explorer <br />
+&nbsp; ByteX Explorer <br />
 &nbsp; &nbsp; 🌎 [https://bytescan.io/](https://test.bytescan.io/) <br />
 &nbsp; &nbsp; 📌 Blockscout Based Block Explorer for EVM Chain <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
-ByteX Faucet <br />
+&nbsp; ByteX Faucet <br />
 &nbsp; &nbsp; 🌎 [https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
 &nbsp; &nbsp; 📌 POW Faucet for EVM Chain <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
