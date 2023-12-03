@@ -15,52 +15,52 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; 📌 Token Staking Platform for Fixed-Interest Rate <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 <br />
-&nbsp; 3️⃣  BPEGD
+&nbsp; 3️⃣  BPEGD <br />
 &nbsp; &nbsp; 🌎 [https://bpegd.fi](https://bpegd-3817c.web.app/) <br />
 &nbsp; &nbsp; 📌 Staking & Lending on Ethereum Network <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@ww](https://t.me/ktman114)<br />
 <br />
-&nbsp; 4️⃣  Benkei
+&nbsp; 4️⃣  Benkei <br />
 &nbsp; &nbsp; 🌎 [https://benkei.fi](https://benkei.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Deflation Token, LP Token Staking Platform <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 <br />
-&nbsp; 5️⃣  Terra Swap
+&nbsp; 5️⃣  Terra Swap <br />
 &nbsp; &nbsp; 🌎 [https://terraswap.io](https://terraswap.io/) <br />
 &nbsp; &nbsp; 📌 Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra <br />
 &nbsp; &nbsp; 👥 [@messi](https://t.me/@legendblockchain)<br />
 
 ### ⚡ Perpetual DEX
-&nbsp; 1️⃣  Bluespade
+&nbsp; 1️⃣  Bluespade <br />
 &nbsp; &nbsp; 🌎 [https://bluespade.app/](https://bluespade.netlify.app/) <br />
 &nbsp; &nbsp; 📌 GMX Fork on Cronos & Polygon chains <br />
 &nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
 
 ### ⚡ Lending Protocol
-&nbsp; 1️⃣  Caelum 
+&nbsp; 1️⃣  Caelum  <br />
 &nbsp; &nbsp; 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ### ⚡ LaunchPad
-&nbsp; 1️⃣  SafePad
+&nbsp; 1️⃣  SafePad <br />
 &nbsp; &nbsp; 🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
 &nbsp; &nbsp; 📌 ICO LaunchPad on BNB Smartchain <br />
 &nbsp; &nbsp; 👥 [@ww](https://t.me/ktman114) <br />
 <br />
-&nbsp; 2️⃣  GasPad
+&nbsp; 2️⃣  GasPad <br />
 &nbsp; &nbsp; 🌎 [https://gaspad.app](https://gp-launchpad.netlify.app/) <br />
 &nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ### ⚡ Token Landing & Presale dApp
-&nbsp; 1️⃣  $GOC PreSale
+&nbsp; 1️⃣  $GOC PreSale <br />
 &nbsp; &nbsp; 🌎 [https://presale-goc.app/](https://presale-goc.netlify.app/) <br />
 &nbsp; &nbsp; 📌 Token Landing & Presale page <br />
 &nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405)<br />
 
 ### ⚡ BlockChain Network
-&nbsp; 1️⃣  ByteX Chain
+&nbsp; 1️⃣  ByteX Chain <br />
 &nbsp; &nbsp; ByteX Node <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
 &nbsp; &nbsp; &nbsp; 📌 EVMOS based Chain Core for Running Node <br />
@@ -75,51 +75,51 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
 
 ### 🅱️ Bitcoin Ordinal
-&nbsp; 1️⃣  DexOrdi
+&nbsp; 1️⃣  DexOrdi <br />
 &nbsp; &nbsp; 🌎 [https://dexordi.com](https://dexordi.proskillowner.com/) <br />
 &nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
 &nbsp; &nbsp; 👥 [@ghost](https://t.me/proskillowner)
 <br />
-&nbsp; 2️⃣  BitcSwap
+&nbsp; 2️⃣  BitcSwap <br />
 &nbsp; &nbsp; 🌎 [https://app.bitcswap.io](https://app.bitcswap.io/) <br />
 &nbsp; &nbsp; 📌 BRC20 DEX on Bitcoin <br />
 &nbsp; &nbsp; 👥 [@beast](https://t.me/crypto0405) <br />
 
 ### 🤖 Crypto Telegram Bot
-&nbsp; 1️⃣  Alpha AI 
+&nbsp; 1️⃣  Alpha AI  <br />
 &nbsp; &nbsp; 🌎 [https://alphai.site](https://alphai.site/) <br />
 &nbsp; &nbsp; 📌 Alpha Scanner bot on Ethereum <br />
 &nbsp; &nbsp; 👥 [@ares](https://t.me/Sparkleye) [@tiger](https://t.me/DraganManager) <br />
 <br />
-&nbsp; 2️⃣  TeleSwap
+&nbsp; 2️⃣  TeleSwap <br />
 &nbsp; &nbsp; 🌎 [https://teleswap.tech](https://teleswap.tech/) <br />
 &nbsp; &nbsp; 📌 Telegram DEX on Ethereum <br />
 &nbsp; &nbsp; 👥 [@ares](https://t.me/Sparkleye) [@tiger](https://t.me/DraganManager) <br />
 
 ### 🖼 NFT
-&nbsp; 1️⃣  BullHead
+&nbsp; 1️⃣  BullHead <br />
 &nbsp; &nbsp; 🌎 [https://app.bullheadednfts.io](https://bull-nft-staking.netlify.app/) <br />
 &nbsp; &nbsp; 📌 NFT Minting/Staking on Ethereum <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 <br />
-&nbsp; 2️⃣  FireFlys
+&nbsp; 2️⃣  FireFlys <br />
 &nbsp; &nbsp; 🌎 [https://fireflys.app/](https://fireflys.netlify.app/) <br />
 &nbsp; &nbsp; 📌 NFT MarketPlace on Butane chain <br />
 &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 
 ### 👝 Wallet
-&nbsp; 1️⃣  SafeSpot
+&nbsp; 1️⃣  SafeSpot <br />
 &nbsp; &nbsp; 🌎 [https://safespot.tech](https://safespot.tech/) <br />
 &nbsp; &nbsp; 📌 MultiSign Wallet on BlockSpot Chain (SafeWallet Fork) <br />
 &nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
 
 ### 💉 Injective Chain dApps
-&nbsp; 1️⃣  Inj Staking
+&nbsp; 1️⃣  Inj Staking <br />
 &nbsp; &nbsp; 🌎 [https://injstaking.io](https://injstaking.io/) <br />
 &nbsp; &nbsp; 📌 NFT Staking Platform on Injective chain<br />
 &nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
 <br />
-&nbsp; 2️⃣  InjMarket
+&nbsp; 2️⃣  InjMarket <br />
 &nbsp; &nbsp; 🌎 [https://injmarket.io](https://injmarket.io/) <br />
 &nbsp; &nbsp; 📌 NFT LaunchPad on Injective chain<br />
 &nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
