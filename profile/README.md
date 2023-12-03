@@ -119,7 +119,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 NFT Staking Platform on Injective chain<br />
 &nbsp; &nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
 <br />
-&nbsp; &nbsp; 2️⃣  InjMarket <br />
+&nbsp; &nbsp; 2️⃣  Inj Market <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://injmarket.io](https://injmarket.io/) <br />
 &nbsp; &nbsp; &nbsp; 📌 NFT LaunchPad on Injective chain<br />
 &nbsp; &nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
