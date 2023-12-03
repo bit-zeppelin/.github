@@ -4,7 +4,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
 # Our Products
-## ✅ DEX & DeFi
+## DEX & DeFi
 &nbsp; &nbsp; 1️⃣  EldenFi <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 &nbsp; &nbsp; &nbsp; 📌 purpose built liquidity architecture to support builders and generate real yields on the native DEX of Base <br />
@@ -30,7 +30,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 Dex(Swap, Add/Remove liquidity, Staking, Farming, Vesting) on Terra <br />
 &nbsp; &nbsp; &nbsp; 👥 [@messi](https://t.me/@legendblockchain)<br />
 
-### ✅ Perpetual DEX
+## Perpetual DEX
 &nbsp; &nbsp; 1️⃣  Bluespade <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://bluespade.app/](https://bluespade.netlify.app/) <br />
 &nbsp; &nbsp; &nbsp; 📌 GMX Fork on Cronos & Polygon chains <br />
