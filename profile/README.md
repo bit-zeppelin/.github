@@ -4,10 +4,20 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
 ## 🚜 DEX & DeFi 🚜
-#### 1️⃣  EldenFi 
+### 1️⃣  EldenFi 
 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 📌 Camelot Fork on Base Goerli <br />
 💻 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
+
+### 2️⃣  SynthX **(@cryptoLteam, @Ether0405)**
+🌎 [https://synthx.fi](https://synthx.netlify.app/) <br />
+📌 Token Staking Platform for Fixed-Interest Rate <br />
+💻 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+
+### 3️⃣  BPEGD
+🌎 [https://bpegd.fi](https://bpegd-3817c.web.app/) <br />
+📌 Staking & Lending on Ethereum Network <br />
+💻 [@alex](https://t.me/whaler0x), [@ww](https://t.me/ktman114)<br />
 
 ## 🏧 Lending Protocol 🏧
 #### 1️⃣  Caelum 
@@ -19,9 +29,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 #### ICO LaunchPad on BNB Smartchain
 [https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
 
-## BPEGD **(@kato114)**
-#### Defi on Ethereum Network
-[https://bpegd-3817c.web.app/](https://bpegd-3817c.web.app/)
+
 
 ## ByteX Chain Node **(@kato114)**
 #### EVMOS based Chain Core for Running Node
@@ -58,10 +66,6 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ## Benkei **(@cryptoLteam, @Ether0405)**
 #### Deflation Token Staking Platform
 [https://benkei.netlify.app](https://benkei.netlify.app/) <br />
-
-## SynthX **(@cryptoLteam, @Ether0405)**
-#### Token Staking Platform for Fixed-Interest Rate
-[https://gp-launchpad.netlify.app/(https://synthx.netlify.app/) <br />
 
 ## GasPad **(@cryptoLteam, @Ether0405)**
 #### ICO LaunchPad
