@@ -4,10 +4,10 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
 ## 🚜 DEX & DeFi 🚜
-#### EldenFi 
-🌎 Website: [https://eldenfi.mladendev.com](https://eldenfi.mladendev.com/) <br />
+#### 1️⃣  EldenFi 
+🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 📌 Camelot Fork on Base Goerli <br />
-💻 @sniper, @ursa, @alex <br />
+💻 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
 
 ## SafePad **(@kato114)**
 #### ICO LaunchPad on BNB Smartchain
