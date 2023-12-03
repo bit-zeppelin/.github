@@ -3,10 +3,11 @@
 We've been helping startups, banks, and financial institutions to integrate blockchain technologies for more than 7 years. <br />
 **BitZeppelin** is what you need if you are ready to move towards the blockchain world. <br />
 
-## 🚜 DEX & DeFi 🚜
-### 1️⃣  EldenFi 
+# Our Products
+### 🚜 DEX & DeFi 🚜
+#### 1️⃣  EldenFi 
 &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
-&nbsp; &nbsp; 📌 Camelot Fork on Base Goerli <br />
+&nbsp; &nbsp; 📌 purpose built liquidity architecture to support builders and generate real yields on the native DEX of Base <br />
 &nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@ursa](https://t.me/mladendev) [@sniper](https://t.me/zxapolloeth)<br />
 
 ### 2️⃣  SynthX
@@ -122,7 +123,7 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ### 1️⃣  InjMarket
 &nbsp; &nbsp; 🌎 [https://injmarket.io](https://injmarket.io/) <br />
 &nbsp; &nbsp; 📌 NFT LaunchPad on Injective chain<br />
-&nbsp; &nbsp; 👥 [@tiger](https://t.me/DraganManager) <br />
+&nbsp; &nbsp; 👥 [@ursa](https://t.me/mladendev) [@tiger](https://t.me/DraganManager) [@alex](https://t.me/whaler0x) <br />
 
 # Our Partners
 
