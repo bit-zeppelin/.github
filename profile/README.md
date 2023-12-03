@@ -43,15 +43,15 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 
 ## 🖧 BlockChain Network 🖧
 ### 1️⃣  ByteX Chain
-&nbsp; ByteX Node
+ByteX Node <br />
 &nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
 &nbsp; &nbsp; 📌 EVMOS based Chain Core for Running Node <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
-&nbsp; ByteX Explorer
+ByteX Explorer <br />
 &nbsp; &nbsp; 🌎 [https://bytescan.io/](https://test.bytescan.io/) <br />
 &nbsp; &nbsp; 📌 Blockscout Based Block Explorer for EVM Chain <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
-&nbsp; ByteX Faucet
+ByteX Faucet <br />
 &nbsp; &nbsp; 🌎 [https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
 &nbsp; &nbsp; 📌 POW Faucet for EVM Chain <br />
 &nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
