@@ -7,54 +7,54 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ### 1️⃣  EldenFi 
 &nbsp; &nbsp; 🌎 [https://elden.fi](https://eldenfi.mladendev.com/) <br />
 &nbsp; &nbsp; 📌 Camelot Fork on Base Goerli <br />
-&nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
+&nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@ursa](https://t.me/mladendev) [@sniper](https://t.me/zxapolloeth)<br />
 
 ### 2️⃣  SynthX
-🌎 [https://synthx.fi](https://synthx.netlify.app/) <br />
-📌 Token Staking Platform for Fixed-Interest Rate <br />
-👥 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+&nbsp; &nbsp; 🌎 [https://synthx.fi](https://synthx.netlify.app/) <br />
+&nbsp; &nbsp; 📌 Token Staking Platform for Fixed-Interest Rate <br />
+&nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ### 3️⃣  BPEGD
-🌎 [https://bpegd.fi](https://bpegd-3817c.web.app/) <br />
-📌 Staking & Lending on Ethereum Network <br />
-👥 [@alex](https://t.me/whaler0x), [@ww](https://t.me/ktman114)<br />
+&nbsp; &nbsp; 🌎 [https://bpegd.fi](https://bpegd-3817c.web.app/) <br />
+&nbsp; &nbsp; 📌 Staking & Lending on Ethereum Network <br />
+&nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@ww](https://t.me/ktman114)<br />
 
 ### 4️⃣  Benkei
-🌎 [https://benkei.fi](https://benkei.netlify.app/) <br />
-📌 Deflation Token, LP Token Staking Platform <br />
-👥 [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+&nbsp; &nbsp; 🌎 [https://benkei.fi](https://benkei.netlify.app/) <br />
+&nbsp; &nbsp; 📌 Deflation Token, LP Token Staking Platform <br />
+&nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ## 🏧 Lending Protocol 🏧
 ### 1️⃣  Caelum 
-🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
-📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
-👥 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+&nbsp; &nbsp; 🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
+&nbsp; &nbsp; 📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
+&nbsp; &nbsp; 👥 [@alex](https://t.me/whaler0x) [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ## 📟 LaunchPad 📟
 ### 1️⃣  SafePad
-🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
-📌 ICO LaunchPad on BNB Smartchain <br />
-👥 [@ww](https://t.me/ktman114)<br />
+&nbsp; &nbsp; 🌎 [https://safepad.app](https://safepad-c9f51.web.app) <br />
+&nbsp; &nbsp; 📌 ICO LaunchPad on BNB Smartchain <br />
+&nbsp; &nbsp; 👥 [@ww](https://t.me/ktman114)<br />
 
 ### 2️⃣  GasPad
-🌎 [https://gaspad.app](https://gp-launchpad.netlify.app/) <br />
-📌 ICO LaunchPad on Butane chain <br />
-👥 [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+&nbsp; &nbsp; 🌎 [https://gaspad.app](https://gp-launchpad.netlify.app/) <br />
+&nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
+&nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
 ## 🖧 BlockChain Network 🖧
 ### 1️⃣  ByteX Chain
-##### ByteX Node
-🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
-📌 EVMOS based Chain Core for Running Node <br />
-👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
-##### ByteX Explorer
-🌎 [https://bytescan.io/](https://test.bytescan.io/) <br />
-📌 Blockscout Based Block Explorer for EVM Chain <br />
-👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
-##### ByteX Faucet
-🌎 [https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
-📌 POW Faucet for EVM Chain <br />
-👥 [@aria](https://t.me/DreamWorksDev), [@ww](https://t.me/ktman114)<br />
+&nbsp; ByteX Node
+&nbsp; &nbsp; 🌎 [https://rpc.bytexc.org](https://test-rpc.bytexc.org) <br />
+&nbsp; &nbsp; 📌 EVMOS based Chain Core for Running Node <br />
+&nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
+&nbsp; ByteX Explorer
+&nbsp; &nbsp; 🌎 [https://bytescan.io/](https://test.bytescan.io/) <br />
+&nbsp; &nbsp; 📌 Blockscout Based Block Explorer for EVM Chain <br />
+&nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
+&nbsp; ByteX Faucet
+&nbsp; &nbsp; 🌎 [https://faucet.bytexc.io/](https://faucet.bytexc.io/) <br />
+&nbsp; &nbsp; 📌 POW Faucet for EVM Chain <br />
+&nbsp; &nbsp; 👥 [@aria](https://t.me/DreamWorksDev) [@ww](https://t.me/ktman114)<br />
 
 ## DexOrdi **(@proskillowner)**
 #### BRC20 DEX on Bitcoin
