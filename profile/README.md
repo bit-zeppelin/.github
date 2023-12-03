@@ -9,6 +9,12 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 📌 Camelot Fork on Base Goerli <br />
 💻 [@alex](https://t.me/whaler0x), [@ursa](https://t.me/mladendev), [@sniper](https://t.me/zxapolloeth)<br />
 
+## 🏧 Lending Protocol 🏧
+#### 1️⃣  Caelum 
+🌎 [https://caelum.fi](https://cal-lsd.netlify.app/) <br />
+📌 Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH <br />
+💻 [@alex](https://t.me/whaler0x), [@sniper](https://t.me/zxapolloeth), [@beast](https://t.me/crypto0405)<br />
+
 ## SafePad **(@kato114)**
 #### ICO LaunchPad on BNB Smartchain
 [https://safepad-c9f51.web.app/](https://safepad-c9f51.web.app/) <br />
@@ -56,10 +62,6 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 ## SynthX **(@cryptoLteam, @Ether0405)**
 #### Token Staking Platform for Fixed-Interest Rate
 [https://gp-launchpad.netlify.app/(https://synthx.netlify.app/) <br />
-
-## Caelum **(@cryptoLteam, @Ether0405)**
-#### Lending protocol built on Ethereum that utilizes liquid staking derivatives to allow users to borrow against their staked ETH
-[https://cal-lsd.netlify.app](https://cal-lsd.netlify.app/) <br />
 
 ## GasPad **(@cryptoLteam, @Ether0405)**
 #### ICO LaunchPad
