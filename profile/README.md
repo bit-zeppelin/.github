@@ -53,6 +53,23 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 ICO LaunchPad on Butane chain <br />
 &nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) [@beast](https://t.me/crypto0405)<br />
 
+## MultiChain Bridge
+&nbsp; &nbsp; 1️⃣  xxxx <br />
+&nbsp; &nbsp; &nbsp; 🌎 xxxx <br />
+&nbsp; &nbsp; &nbsp; 📌 xxxx <br />
+&nbsp; &nbsp; &nbsp; 👥 xxxx <br />
+
+## DAO
+&nbsp; &nbsp; 1️⃣  xxxx <br />
+&nbsp; &nbsp; &nbsp; 🌎 xxxx <br />
+&nbsp; &nbsp; &nbsp; 📌 olympus DAO fork <br />
+&nbsp; &nbsp; &nbsp; 👥 xxxx <br />
+
+&nbsp; &nbsp; 2️⃣  xxxx <br />
+&nbsp; &nbsp; &nbsp; 🌎 xxxx <br />
+&nbsp; &nbsp; &nbsp; 📌 snapshot fork <br />
+&nbsp; &nbsp; &nbsp; 👥 [@ww](https://t.me/ktman114)<br />
+
 ## Token Landing & Presale dApp
 &nbsp; &nbsp; 1️⃣  $GOC PreSale <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://presale-goc.app/](https://presale-goc.netlify.app/) <br />
