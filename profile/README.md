@@ -119,15 +119,20 @@ We've been helping startups, banks, and financial institutions to integrate bloc
 &nbsp; &nbsp; &nbsp; 📌 NFT Minting/Staking on Ethereum <br />
 &nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
 <br />
+&nbsp; &nbsp; 2️⃣  FireFlys <br />
+&nbsp; &nbsp; &nbsp; 🌎 [https://fireflys.app/](https://fireflys.netlify.app/) <br />
+&nbsp; &nbsp; &nbsp; 📌 NFT MarketPlace on Butane chain <br />
+&nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
+<br />
 &nbsp; &nbsp; 1️⃣  PulsePixel Cartel <br />
 &nbsp; &nbsp; &nbsp; 🌎 [https://pulsepixcelcartel.app](https://pulsepixcelcartel.netlify.app/) <br />
 &nbsp; &nbsp; &nbsp; 📌 NFT Landing/Minting/Staking on Pulse <br />
 &nbsp; &nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
 <br />
-&nbsp; &nbsp; 2️⃣  FireFlys <br />
-&nbsp; &nbsp; &nbsp; 🌎 [https://fireflys.app/](https://fireflys.netlify.app/) <br />
-&nbsp; &nbsp; &nbsp; 📌 NFT MarketPlace on Butane chain <br />
-&nbsp; &nbsp; &nbsp; 👥 [@sniper](https://t.me/zxapolloeth) <br />
+&nbsp; &nbsp; 1️⃣  Life of Hel <br />
+&nbsp; &nbsp; &nbsp; 🌎 [https://lifeofhell.app](https://lifeofhell.netlify.app/) <br />
+&nbsp; &nbsp; &nbsp; 📌 NFT Staking/Raffle on Cronos <br />
+&nbsp; &nbsp; &nbsp; 👥 [@eagle](https://t.me/cryptofieldking) <br />
 
 ## Wallet
 &nbsp; &nbsp; 1️⃣  SafeSpot <br />
